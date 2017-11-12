@@ -6,23 +6,19 @@ Current Version of FlexBoxLayout is 0.7
 https://github.com/d-max/spots-dialog
 
 Original Description:
-
 Android AlertDialog with moving spots progress indicator packed as android library. Example:
 
+`
 AlertDialog dialog = new SpotsDialog(context);
-
 dialog.Show();
-
 //...
-
 dialog.Dismiss();
+`
 
-You can install from Nuget:
+You can install the package from Nuget:
 
-PM> Install-Package SpotsDialog.Xamarin -Version 0.7.0
+**PM> Install-Package SpotsDialog.Xamarin -Version 0.7.0**
 
 The original library was developed by:
 
-Maksym Dybarskyi
-
-https://github.com/d-max
+[Maksym Dybarskyi](https://github.com/d-max)
