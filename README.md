@@ -8,12 +8,12 @@ https://github.com/d-max/spots-dialog
 Original Description:
 Android AlertDialog with moving spots progress indicator packed as android library. Example:
 
-`
+```
 AlertDialog dialog = new SpotsDialog(context);
 dialog.Show();
 //...
 dialog.Dismiss();
-`
+```
 
 You can install the package from Nuget:
 
