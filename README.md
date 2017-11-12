@@ -12,6 +12,7 @@ dialog.Show();
 dialog.Dismiss();
 
 You can install from Nuget:
+
 PM> Install-Package SpotsDialog.Xamarin -Version 0.7.0
 
 The original library was developed by:
