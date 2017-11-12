@@ -8,7 +8,8 @@ https://github.com/d-max/spots-dialog
 Original Description:
 Android AlertDialog with moving spots progress indicator packed as android library. Example:
 
-```
+## Usage
+```C#
 AlertDialog dialog = new SpotsDialog(context);
 dialog.Show();
 //...
@@ -22,3 +23,6 @@ You can install the package from Nuget:
 The original library was developed by:
 
 [Maksym Dybarskyi](https://github.com/d-max)
+
+## License
+[MIT](\LICENSE)
