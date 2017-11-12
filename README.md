@@ -3,7 +3,7 @@ This is a Xamarin Binding Library project that I created in order to use Spots.D
 
 ![alt text](https://camo.githubusercontent.com/d8108413298d70047f52cff9ac05603a5fd51988/687474703a2f2f332e62702e626c6f6773706f742e636f6d2f2d6c3155765657694d5341672f564c61355a6657346444492f41414141414141414e54632f7273576f755f71623042632f733332302f593648615453772e676966 "Preview")
 	  
-**Current Version of FlexBoxLayout is 0.7**
+**Current Version of Spots Dialog is 0.7**
 
 https://github.com/d-max/spots-dialog
 
