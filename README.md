@@ -10,8 +10,11 @@ Android AlertDialog with moving spots progress indicator packed as android libra
 
 `
 AlertDialog dialog = new SpotsDialog(context);
+
 dialog.Show();
+
 //...
+
 dialog.Dismiss();
 `
 
