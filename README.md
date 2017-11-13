@@ -5,7 +5,7 @@ This is a Xamarin Binding Library project that I created in order to use Spots.D
 	  
 **Current Version of the Spots Dialog is 0.8**
 
-https://github.com/FANMixco/spots-dialog/blob/master/build.gradle
+https://github.com/FANMixco/spots-dialog
 
 Original Description:
 Android AlertDialog with moving spots progress indicator packed as android library. Example:
