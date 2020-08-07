@@ -1,37 +1,38 @@
-## Welcome to GitHub Pages
+## Get it
 
-You can use the [editor on GitHub](https://github.com/FANMixco/SpotsDialog.Xamarin/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+|  Package  |Latest Release|
+|:----------|:------------:|
+|**SpotsDialog.Xamarin**|[![NuGet Badge SpotsDialog.Xamarin](https://buildstats.info/nuget/SpotsDialog.Xamarin)](https://www.nuget.org/packages/SpotsDialog.Xamarin/)|
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+![alt text](https://camo.githubusercontent.com/d8108413298d70047f52cff9ac05603a5fd51988/687474703a2f2f332e62702e626c6f6773706f742e636f6d2f2d6c3155765657694d5341672f564c61355a6657346444492f41414141414141414e54632f7273576f755f71623042632f733332302f593648615453772e676966 "Preview")
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**This is the latest library for Android:**
 
-```markdown
-Syntax highlighted code block
+https://github.com/FANMixco/spots-dialog
 
-# Header 1
-## Header 2
-### Header 3
+Original Description:
+Android AlertDialog with moving spots progress indicator packed as android library. Example:
 
-- Bulleted
-- List
+## Usage
+```C#
+var progress = new SpotsDialog.Builder()
+        .SetContext(this)
+        .SetMessage(GetString(Resource.String.lblLoadingSecond))
+        .Build();
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+progress.Show();
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+You can install the package from Nuget:
 
-### Jekyll Themes
+**PM> Install-Package SpotsDialog.Xamarin**
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/FANMixco/SpotsDialog.Xamarin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+The original library was developed by:
 
-### Support or Contact
+[Maksym Dybarskyi](https://github.com/d-max)
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+https://github.com/d-max/spots-dialog
+
+## License
+[MIT](\LICENSE)
