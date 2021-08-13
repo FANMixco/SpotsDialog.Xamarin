@@ -1,3 +1,7 @@
+<a href="https://github.com/sponsors/FANMixco/" target="_blank">
+   <img src="https://raw.githubusercontent.com/FANMixco/Xamarin-SearchBar/master/bmc-rezr5vpd.gif" alt="sponsor" />
+</a>
+
 # SpotsDialog.Xamarin
 This is a Xamarin Binding Library project that I created in order to use Spots.Dialog within my Xamarin.Android applications and replace the Progress Dialog.
 
