@@ -5,12 +5,9 @@
 # SpotsDialog.Xamarin
 This is a Xamarin Binding Library project that I created in order to use Spots.Dialog within my Xamarin.Android applications and replace the Progress Dialog.
 
-|  Package  |Latest Release|
-|:----------|:------------:|
-|**SpotsDialog.Xamarin**|[![NuGet Badge SpotsDialog.Xamarin](https://buildstats.info/nuget/SpotsDialog.Xamarin)](https://www.nuget.org/packages/SpotsDialog.Xamarin/)|
-
-
-![alt text](https://camo.githubusercontent.com/c5d0c94e21ac99032e58ba58b002a92ea97326aa2b9fb86a35ee39f2eb9322ce/687474703a2f2f332e62702e626c6f6773706f742e636f6d2f2d6c3155765657694d5341672f564c61355a6657346444492f41414141414141414e54632f7273576f755f71623042632f733332302f593648615453772e676966)
+|  Package  |Latest Release|Downloads|
+|:----------|:------------:|:------------:|
+|**SpotsDialog.Xamarin**|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/nuget/v/SpotsDialog.Xamarin)](https://www.nuget.org/packages/SpotsDialog.Xamarin/)|[![NuGet Badge SpotsDialog.Xamarin](https://img.shields.io/nuget/dt/SpotsDialog.Xamarin)](https://www.nuget.org/packages/SpotsDialog.Xamarin/)|
 
 **This is the latest library for Android:**
 
